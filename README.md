@@ -2,10 +2,6 @@
 
 A modern, responsive landing page inspired by the Liberty Theme. This layout is ideal for a creative agency, freelance designer, or any team that wants to showcase their services, portfolio, and team with a clean and elegant design.
 
-## 🌐 Live Preview
-
-*(optional: add link here if deployed)*
-
 ## 📸 Screenshots
 
 ![image](https://github.com/user-attachments/assets/c7a4dd1e-02db-4c07-82fb-79b7f08eb269)
